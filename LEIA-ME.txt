@@ -1,0 +1,10 @@
+Abra o terminal na pasta e execute:
+auto-py-to-exe
+
+Configure:
+- Script: app.py
+- Onefile + Window Based
+- Adicione 'ICO.ico' como ícone
+- Adicione os arquivos adicionais (text_extractor.py, publication_extractor.py)
+- Use '--collect-all docx2txt' como argumento adicional se necessário.
+Clique em CONVERT.
